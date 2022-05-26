@@ -1,7 +1,7 @@
 // exercicio1
 const a = 5;
 const b = 10;
-const c = 15;
+const c = 20;
 
 
 // var adicao = a + b;
