@@ -1,5 +1,5 @@
 // exercicio1
-const a = 5;
+const a = -5;
 const b = 10;
 const c = 20;
 
@@ -38,3 +38,12 @@ const c = 20;
 //  console.log(c);
 // }
 
+
+// exercicio4
+// if (a > 0) {
+//   console.log("positive");
+// } else if (a === 0) {
+//    console.log("zero");
+// } else {
+//    console.log("negative")
+// }
