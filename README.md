@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contam todas as atividades de aprendizagem desenvolvidas por mim (https://www.linkedin.com/in/gleiderson-david-47158977)_ enquanto estudo na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contam todas as atividades de aprendizagem desenvolvidas por mim (https://www.linkedin.com/in/gleiderson-david-47158977) enquanto estudo na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa paga quando conseguir um bom trabalho."_
 
